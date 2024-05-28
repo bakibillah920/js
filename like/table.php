@@ -23,7 +23,7 @@ input{
 $baki = "bakibillah";
 ?>
 	<table border="1" id="tb_name">
-		<p align="center">BIPLOB</P>
+		<p align="center">Bakillah</P>
 	<?php
 	
 		for($i = 50;$i<=54;$i++){
